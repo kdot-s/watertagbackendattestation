@@ -15,7 +15,7 @@ photonappid = "9a31e92b-1d5b-43b9-abfc-a905417ba9bd"
 playfabtitle = "1F4F43"
 playfabsecret = "G7UYNFAHD95YBOTM33ARSFB6U1PBDZZ3D4GRNG9WNQ6SUJAYHS"
 apiver = "v1"
-devkey = "skibidididitoilet"
+devkey = "SkidderFlizer"
 usednonces = set()
 pending = {}
 
